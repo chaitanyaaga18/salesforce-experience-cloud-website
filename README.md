@@ -16,5 +16,9 @@ https://wise-shark-nandc3-dev-ed.trailblaze.my.site.com/s
 - Lightning Experience Builder
 - Salesforce Developer Edition
 
+## Screenshots
+screenshot1.png
+screenshot2.png
+
 ## Author
 Chaitanya Agarwal
